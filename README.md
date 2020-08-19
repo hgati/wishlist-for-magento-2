@@ -1,0 +1,1 @@
+# wishlist-for-magento-2
