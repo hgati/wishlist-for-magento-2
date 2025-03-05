@@ -43,3 +43,22 @@ and other advanced features, you need to get the pro version - [Magento 2 Multip
 
 ### See more freemium offers:
 * [Facebook Comments](https://amasty.com/facebook-comments-for-magento-2.html)
+
+<h2>Other Amasty extensions</h2>
+-> <a href="https://amasty.com/automatic-related-products-for-magento-2.html" target="_blank">Automatic Related Products for Magento 2</a><br>
+-> <a href="https://amasty.com/automatic-categories-for-magento-2.html" target="_blank">Automatic Categories for Magento 2</a><br>
+-> <a href="https://amasty.com/app-for-payments-with-stripe-for-magento-2.html" target="_blank">App for Payments with Stripe for Magento 2</a><br>
+-> <a href="https://amasty.com/amp-pages-for-magento-2.html" target="_blank">AMP for Magento 2</a><br>
+-> <a href="https://amasty.com/ajax-shopping-cart-for-magento-2.html" target="_blank">AJAX Shopping Cart for Magento 2</a><br>
+-> <a href="https://amasty.com/age-verification-for-magento-2.html" target="_blank">Age Verification for Magento 2</a><br>
+-> <a href="https://amasty.com/affiliate-for-magento-2.html" target="_blank">Affiliate for Magento 2</a><br>
+-> <a href="https://amasty.com/advanced-search-for-magento-2.html" target="_blank">Advanced Search for Magento 2</a><br>
+-> <a href="https://amasty.com/advanced-reports-for-magento-2.html" target="_blank">Advanced Reports for Magento 2</a><br>
+-> <a href="https://amasty.com/advanced-product-reviews-for-magento-2.html" target="_blank">Advanced Product Reviews for Magento 2</a><br>
+-> <a href="https://amasty.com/advanced-permissions-for-magento-2.html" target="_blank">Advanced Permissions for Magento 2</a><br>
+-> <a href="https://amasty.com/advanced-msi-for-magento-2.html" target="_blank">Advanced MSI for Magento 2</a><br>
+-> <a href="https://amasty.com/admin-actions-log-for-magento-2.html" target="_blank">Admin Actions Log for Magento 2</a><br>
+-> <a href="https://amasty.com/abandoned-cart-email-for-magento-2.html" target="_blank">Abandoned Cart Email for Magento 2</a><br>
+-> <a href="https://amasty.com/efficient-order-export.html" target="_blank">Efficient Order Export</a><br>
+-> <a href="https://amasty.com/color-swatches-pro.html" target="_blank">Color Swatches Pro</a><br>
+-> <a href="https://amasty.com/auto-add-promo-items.html" target="_blank">Auto Add Promo Items</a><br>
