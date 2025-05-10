@@ -2,6 +2,11 @@
 
 >Analyze customers’ desires and make data-driven decisions with the [Magento 2 Wishlist](https://amasty.com/wishlist-for-magento-2.html) extension.
 
+```bash
+composer config repositories.hgati-awl git git@github.com:hgati/wishlist-for-magento-2.git
+composer require amasty/wishlist
+```
+
 ### Key features:
 1. See all customers’ wishlists on one grid
 2. Track the most popular items in your store
