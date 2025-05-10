@@ -2,10 +2,17 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
+        <!-- 회색 제목 역할만 하는 상위 섹션 -->
+        <add id="Amasty_Wishlist::amwishlist_reports_section"
+             title="Amasty Wishlist" translate="title" module="Amasty_Wishlist"
+             sortOrder="50" parent="Magento_Catalog::catalog"
+             resource="Magento_Backend::admin" />
+
+        <!-- 실제 클릭 가능한 메뉴 항목 -->
         <add id="Amasty_Wishlist::amwishlist"
-             title="Wishlist" translate="title" module="Amasty_Wishlist"
-             sortOrder="100" parent="Magento_Backend::content"
+             title="Wishlist Insight" translate="title" module="Amasty_Wishlist"
+             sortOrder="100" parent="Amasty_Wishlist::amwishlist_reports_section"
              action="amwishlist/grid"
-             resource="Amasty_Wishlist::amwishlist"/>
+             resource="Amasty_Wishlist::amwishlist" />
     </menu>
 </config>
