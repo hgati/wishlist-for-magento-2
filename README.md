@@ -4,7 +4,7 @@
 
 ```bash
 composer config repositories.hgati-awl git git@github.com:hgati/wishlist-for-magento-2.git
-composer require amasty/wishlist
+composer require amasty/wishlist:dev-master
 ```
 
 ### Key features:
