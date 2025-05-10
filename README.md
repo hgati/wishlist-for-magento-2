@@ -28,6 +28,9 @@ Wishlist is a built-in Magento 2 feature that lets your customers keep products 
 **Note:** [Learn how wishlists can boost your revenue by up to 19%](https://amasty.com/blog/increase-your-sales-with-wishlists/).
 
 ## Analyze customers behavior on one grid
+
+![image](https://github.com/user-attachments/assets/5200d5c6-03c6-41ce-ac66-dc257c8b9478)
+
 This [plugin](https://amasty.com/wishlist-for-magento-2.html) implements an additional grid into the Content panel, where you can see Product Id, Thumbnail, Name, Type, Stock Qty, Count, SKU, Action:
 
 ![image Info](https://amasty.com/docs/lib/exe/fetch.php?media=magento_2:wishlist:new-for-ug.png)
